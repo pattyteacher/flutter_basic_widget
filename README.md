@@ -1,4 +1,8 @@
-# myfirstapp
+# Basic Widget
+##  Name : Pattaraporn Warintarawej
+### ID: 64xxxxxxxxx
+
+<img src="assets/images/ex1.jpg" style="width: 300px; height: 550px">
 
 A new Flutter project.
 

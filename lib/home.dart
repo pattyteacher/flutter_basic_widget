@@ -12,7 +12,16 @@ class Home extends StatelessWidget {
       body: Column(
         children: [
           Image.asset('assets/images/food.jpg'),
-          const Text('PSU Shop'),
+          const SizedBox(
+            height: 20,
+          ),
+          const Text(
+            'PSU Shop',
+            style: TextStyle(
+              fontFamily: 'Calibri',
+              fontSize: 40,
+            ),
+          ),
         ],
       ),
     );
